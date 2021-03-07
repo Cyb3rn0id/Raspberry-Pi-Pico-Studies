@@ -3,16 +3,16 @@ Examples are contained in each folder grouped for theme, but scripts must be cop
 
 Example of Raspberry Pi Pico folder structure:
 
-[root]
-├─ img
-│   └─ szlogo.pbm
-└─ lib
-    ├─ max7219.py
-    └─ ssd1306.py
-dotmatrix.py
-neopixel.py
-oled_logo.py
-pwm1.py
-pwm2.py
+[root]  
+├─ img  
+│   └─ szlogo.pbm  
+└─ lib  
+    ├─ max7219.py  
+    └─ ssd1306.py  
+dotmatrix.py  
+neopixel.py  
+oled_logo.py  
+pwm1.py  
+pwm2.py  
 
 treeview generated with [ascii treeview generator](https://konohiroaki.github.io/ascii-treeview-generator/)
