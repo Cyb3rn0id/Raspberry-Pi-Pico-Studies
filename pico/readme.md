@@ -2,17 +2,16 @@
 Examples are contained in each folder grouped for theme, but scripts must be copied on the root of Raspberry Pi Pico, without folders.
 
 Example of Raspberry Pi Pico folder structure:
-`
-[root]  
-├─ img  
-│   └─ szlogo.pbm  
-└─ lib  
-   ├─ max7219.py  
-   └─ ssd1306.py  
-dotmatrix.py  
-neopixel.py  
-oled_logo.py  
-pwm1.py  
-pwm2.py  
-`
-treeview generated with [ascii treeview generator](https://konohiroaki.github.io/ascii-treeview-generator/)
+
++--img  
+| +--szlogo.pbm  
+|  
++--lib  
+|  +--max7219.py  
+|  +--ssd1306.py  
+|  
++--dotmatrix.py  
++--neopixel.py  
++--oled_logo.py  
++--pwm1.py  
++--pwm2.py  
