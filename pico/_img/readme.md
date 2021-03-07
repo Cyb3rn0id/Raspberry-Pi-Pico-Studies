@@ -1,1 +1,1 @@
-Folder in the Pico where I put pbm images
+Folder in the Pico where I put _PBM_ images. For a tutorial about convert images in _PBM_ format you can read [this article on my blog](https://www.settorezero.com/wordpress/raspberry-pi-pico-utilizzare-il-display-oled/)
