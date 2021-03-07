@@ -4,11 +4,11 @@ Examples are contained in each folder grouped for theme, but scripts must be cop
 Example of Raspberry Pi Pico folder structure:
 
 +--img  
-|  +--szlogo.pbm  
+|   +--szlogo.pbm  
 |  
 +--lib  
-|  +--max7219.py  
-|  +--ssd1306.py  
+|   +--max7219.py  
+|   +--ssd1306.py  
 |  
 +--dotmatrix.py  
 +--neopixel.py  
