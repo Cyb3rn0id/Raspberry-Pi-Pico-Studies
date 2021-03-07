@@ -7,8 +7,8 @@ Example of Raspberry Pi Pico folder structure:
 ├─ img  
 │   └─ szlogo.pbm  
 └─ lib  
-    ├─ max7219.py  
-    └─ ssd1306.py  
+   ├─ max7219.py  
+   └─ ssd1306.py  
 dotmatrix.py  
 neopixel.py  
 oled_logo.py  
