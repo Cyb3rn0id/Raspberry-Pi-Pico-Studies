@@ -1,11 +1,14 @@
 # example from Giovanni Bernardo (@cyb3rn0id)
 # prints keys from a matrix keypad
+# example created with Elecrow Raspberry Pi Pico Advanced Kit:
+# https://www.elecrow.com/raspberry-pi-pico-advanced-kit-with-pico-board-32-modules-and-32-detailed-projects-lessons.html
+# part of the code derives from that kit lessons (lesson 27 - simple calculator)
 # no libraries required
 # having keypad matrix in front, there are 8 pins below (R=row C=columnn)
 # R1 R2 R3 R4 C1 C2 C3 C4
 # connect to pins:
 # 17 16 15 14 12 11 10  9
-# that corresponds to pins:
+# that corresponds to gpios:
 # 13 12 11 10  9  8  7  6
 
 from machine import Pin, Timer
