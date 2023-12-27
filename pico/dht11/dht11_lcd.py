@@ -1,6 +1,8 @@
 # example from Giovanni Bernardo (@cyb3rn0id)
-# shows temperature and humidity on an LCD 16x2 (with I2C backpack)
-# from a DHT11 sensor
+# shows temperature and humidity on an LCD 16x2 (with I2C backpack) read from a DHT11 sensor
+# example created with Elecrow Raspberry Pi Pico Advanced Kit:
+# https://www.elecrow.com/raspberry-pi-pico-advanced-kit-with-pico-board-32-modules-and-32-detailed-projects-lessons.html
+# this is an alternative to lesson 23 - mini weather station
 # SDA => GP0 (pin 1)
 # SCL => GP1 (pin 2)
 # DHT sensor data => GP2 (pin 4)
