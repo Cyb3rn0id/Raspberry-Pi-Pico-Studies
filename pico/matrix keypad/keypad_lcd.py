@@ -1,5 +1,8 @@
 # example from Giovanni Bernardo (@cyb3rn0id)
 # prints keys from a matrix keypad on a 16x2 LCD
+# example created with Elecrow Raspberry Pi Pico Advanced Kit:
+# https://www.elecrow.com/raspberry-pi-pico-advanced-kit-with-pico-board-32-modules-and-32-detailed-projects-lessons.html
+# part of the code derives from that kit lessons (lesson 27 - simple calculator)
 # having keypad matrix in front, there are 8 pins below (R=row C=columnn)
 # R1 R2 R3 R4 C1 C2 C3 C4
 # connect to pins:
