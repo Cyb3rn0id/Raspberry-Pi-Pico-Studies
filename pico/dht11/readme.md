@@ -1,4 +1,4 @@
-###DHT 11 example  
+### DHT 11 example  
 
 Reads Temperature and Humidity from a DHT11 sensor and shows them on an 16x2 lcd display  
 Picture: [instagram](https://www.instagram.com/cyb3rn0id/p/C1UR4WpNPNp/)  
