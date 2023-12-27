@@ -1,4 +1,5 @@
-###DHT 11 example
+###DHT 11 example  
+
 Reads Temperature and Humidity from a DHT11 sensor and shows them on an 16x2 lcd display  
 Picture: [instagram](https://www.instagram.com/cyb3rn0id/p/C1UR4WpNPNp/)  
 This example was created thanks to [Elecrow Raspberry Pi Pico Advanced Kit](https://www.elecrow.com/raspberry-pi-pico-advanced-kit-with-pico-board-32-modules-and-32-detailed-projects-lessons.html)  
