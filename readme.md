@@ -13,6 +13,3 @@ I've written some articles on my blog too: are in Italian language but should be
 - [Getting started with MicroPython on Raspberry Pi Pico](https://www.settorezero.com/wordpress/raspberry-pi-pico-come-iniziare/)
 - [Usage of an OLED display](https://www.settorezero.com/wordpress/raspberry-pi-pico-utilizzare-il-display-oled/)
 - [The PWM](https://www.settorezero.com/wordpress/raspberry-pi-pico-gestione-del-pwm-in-micropython/)
-
-## Notes
-Folder structure generated with [ASCII Treewiev generator](https://konohiroaki.github.io/ascii-treeview-generator/)
