@@ -24,3 +24,6 @@ Example of Raspberry Pi Pico folder structure:
 ├─ pwm3.py
 └─ pwm150khz.py
 ```
+
+## Notes
+Folder structure generated with [ASCII Treewiev generator](https://konohiroaki.github.io/ascii-treeview-generator/)
