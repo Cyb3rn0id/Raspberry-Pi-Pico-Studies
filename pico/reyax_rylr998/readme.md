@@ -4,6 +4,8 @@ In this example you must assemble two identical circuits for understanding how t
   
 The important thing is that you cannot power the LoRa module from the 3.3V coming out from the Raspberry Pi Pico since it don't gives  enough current, so an external power source is required.  
     
+![Reyax RYLR998 + Raspberry Pi Pico Demo by CyB3rn0id](../../assets/images/reyax_rylr998_demo.jpg)  
+
 You'll need, in total, 4 leds (with 4 220-330Ohm resistors), 2 tactile pushbuttons, 2 3.3V sources (any) and, of course, 2 Reyax RYLR998 modules and 2 Raspberry Pi Pico (it's good also the W model).  
   
 ### Connections
