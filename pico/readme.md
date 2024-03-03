@@ -1,8 +1,6 @@
-`_lib` and `_img` folder must be on the Raspberry Pi Pico without the underscore (I've added it only for showing those 2 folder on top of the list).  
+Every example can contain a `lib` and/or an `img` folder: those folders must be copied in the root of your raspberry pi pico. Then you must copy the .py file of the example in the root too.
 
-Examples are contained in each folder grouped for theme, but scripts (_*.py_) must be copied on the root of Raspberry Pi Pico, without folders.
-
-Is not necessary include the libraries by adding _lib/_ : the MicroPython interpreter will look in the _lib_ folder by default.
+In your scripts is not necessary include the libraries by adding _lib/_ : the MicroPython interpreter will look in the _lib_ folder by default.
 
 Example of Raspberry Pi Pico folder structure:
 ```
@@ -12,7 +10,7 @@ Example of Raspberry Pi Pico folder structure:
 ├─ lib
 │   ├─ max7219.py
 │   ├─ ssd1306.py
-│   └─ 
+│   └─
 ├─ blink_del.py
 ├─ blink_int.py
 ├─ dotmatrix.py
